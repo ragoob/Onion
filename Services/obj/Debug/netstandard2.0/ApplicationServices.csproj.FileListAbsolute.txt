@@ -1,0 +1,11 @@
+D:\Onion\Onion\ApplicationServices\bin\Debug\netstandard2.0\ApplicationServices.deps.json
+D:\Onion\Onion\ApplicationServices\bin\Debug\netstandard2.0\ApplicationServices.dll
+D:\Onion\Onion\ApplicationServices\bin\Debug\netstandard2.0\ApplicationServices.pdb
+D:\Onion\Onion\ApplicationServices\bin\Debug\netstandard2.0\Core.dll
+D:\Onion\Onion\ApplicationServices\bin\Debug\netstandard2.0\Core.pdb
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.csprojAssemblyReference.cache
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.AssemblyInfo.cs
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.csproj.CopyComplete
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.dll
+D:\Onion\Onion\ApplicationServices\obj\Debug\netstandard2.0\ApplicationServices.pdb
